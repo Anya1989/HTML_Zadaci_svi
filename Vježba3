@@ -1,0 +1,42 @@
+
+!DOCTYPE HTML>
+	<html lang="hr">
+		<head>
+			<title>Tvrtka iz Japana zagrebačkoj katedrali donirala uređaj za rano upozoravanje na potres</title>
+			<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+			<meta name="description" content="Donirani uređaj iz Japana">
+			<meta name="keywords" content="Katedrala, Japan, potres">
+			<meta name="author" content="Anja Matešić">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		</head>
+	<body>
+		<h1>Tvrtka iz Japana zagrebačkoj katedrali donirala uređaj za rano upozoravanje na potres</h1>
+		<h2>Uređaj šalje upozorenje nekoliko sekundi prije nego što se potres osjeti</h2>
+		<p>ZAGREBAČKOJ katedrali japanska je tvrtka donirala seizmičke uređaje za rano javljanje i upozoravanje na potres, izvijestio je danas Tiskovni ured Zagrebačke nadbiskupije.</p> 
+
+		<p>"Nakon što se dogodio potres u Zagrebu, putem UNESCO-a i Veleposlanstva Japana saznao sam što se dogodilo te sam preko njih odlučio pomoći i donirati ove uređaje. Želja mi je da hrvatski građani budu spremni na potrese", rekao je direktor tvrtke Challenge Co. Kazuo Sasaki.</p>
+		
+		<figure>	
+		
+		<img src="https://01portal.hr/wp-content/uploads/2020/04/PXL_300320_28579529-1024x682.jpg" alt="katedrala" style="width:200px;height:300px"> 
+		
+		<figcaption>Zagrebačka katedrala 
+		<a href= "https://01portal.hr/wp-content/uploads/2020/04/PXL_300320_28579529-1024x682.jpg">stradala u potresu 2020.
+		</figcaption>
+		</figure>
+		
+		<figure>
+		<img src="images/potress.jpg" alt="Potres" title="Potres 2020." style="width:200px;height:300px" target="blank">
+		<figcaption>Seizmološka snimka potresa
+		</figcaption>
+		</figure>
+		
+		<figure>
+		<a href= "https://vern.hr/wp-content/uploads/2020/07/VERN-2030-web-foto-600x400.jpg" target= "_blank">
+		<img src= "https://vern.hr/wp-content/uploads/2020/07/VERN-2030-web-foto-600x400.jpg" alt="slika_vern-a" height="200px"> <!-- apsolutna-->
+		<figcaption>Logo VERN</figcaption>
+
+		</figure>
+	</body>
+	</html>
